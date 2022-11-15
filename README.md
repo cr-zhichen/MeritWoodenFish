@@ -3,7 +3,7 @@
 使用Cocos制作的电子木鱼  
 [在线演示](muyu.ccrui.cn)  
 
-![图片]()  
+![图片](https://tc.chengrui.xyz/2022/11/15/4WJNsP.png)  
 
 ## 已实现功能
 
